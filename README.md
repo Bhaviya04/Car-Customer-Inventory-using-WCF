@@ -5,8 +5,8 @@ This project is created using ASP.NET WCF which shows customer who purchased a c
 
 Steps :-
  
-Install Visual Studio 2015
-Install SQL Server Express and SQL Server Management Studio
-Run the .sql file in SQL Server Management Studio
-Open the Project in Visual Studio
-Run the project
+1. Install Visual Studio 2015
+2. Install SQL Server Express and SQL Server Management Studio
+3. Run the .sql file in SQL Server Management Studio
+4. Open the Project in Visual Studio
+5. Run the project
